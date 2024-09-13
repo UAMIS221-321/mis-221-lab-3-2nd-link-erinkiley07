@@ -1,0 +1,15 @@
+/Users/erinkiley/Desktop/misfall/mis-221-lab-3-2nd-link-erinkiley07/bin/Debug/net8.0/mis-221-lab-3-2nd-link-erinkiley07
+/Users/erinkiley/Desktop/misfall/mis-221-lab-3-2nd-link-erinkiley07/bin/Debug/net8.0/mis-221-lab-3-2nd-link-erinkiley07.deps.json
+/Users/erinkiley/Desktop/misfall/mis-221-lab-3-2nd-link-erinkiley07/bin/Debug/net8.0/mis-221-lab-3-2nd-link-erinkiley07.runtimeconfig.json
+/Users/erinkiley/Desktop/misfall/mis-221-lab-3-2nd-link-erinkiley07/bin/Debug/net8.0/mis-221-lab-3-2nd-link-erinkiley07.dll
+/Users/erinkiley/Desktop/misfall/mis-221-lab-3-2nd-link-erinkiley07/bin/Debug/net8.0/mis-221-lab-3-2nd-link-erinkiley07.pdb
+/Users/erinkiley/Desktop/misfall/mis-221-lab-3-2nd-link-erinkiley07/obj/Debug/net8.0/mis-221-lab-3-2nd-link-erinkiley07.GeneratedMSBuildEditorConfig.editorconfig
+/Users/erinkiley/Desktop/misfall/mis-221-lab-3-2nd-link-erinkiley07/obj/Debug/net8.0/mis-221-lab-3-2nd-link-erinkiley07.AssemblyInfoInputs.cache
+/Users/erinkiley/Desktop/misfall/mis-221-lab-3-2nd-link-erinkiley07/obj/Debug/net8.0/mis-221-lab-3-2nd-link-erinkiley07.AssemblyInfo.cs
+/Users/erinkiley/Desktop/misfall/mis-221-lab-3-2nd-link-erinkiley07/obj/Debug/net8.0/mis-221-lab-3-2nd-link-erinkiley07.csproj.CoreCompileInputs.cache
+/Users/erinkiley/Desktop/misfall/mis-221-lab-3-2nd-link-erinkiley07/obj/Debug/net8.0/mis-221-lab-3-2nd-link-erinkiley07.sourcelink.json
+/Users/erinkiley/Desktop/misfall/mis-221-lab-3-2nd-link-erinkiley07/obj/Debug/net8.0/mis-221-lab-3-2nd-link-erinkiley07.dll
+/Users/erinkiley/Desktop/misfall/mis-221-lab-3-2nd-link-erinkiley07/obj/Debug/net8.0/refint/mis-221-lab-3-2nd-link-erinkiley07.dll
+/Users/erinkiley/Desktop/misfall/mis-221-lab-3-2nd-link-erinkiley07/obj/Debug/net8.0/mis-221-lab-3-2nd-link-erinkiley07.pdb
+/Users/erinkiley/Desktop/misfall/mis-221-lab-3-2nd-link-erinkiley07/obj/Debug/net8.0/mis-221-lab-3-2nd-link-erinkiley07.genruntimeconfig.cache
+/Users/erinkiley/Desktop/misfall/mis-221-lab-3-2nd-link-erinkiley07/obj/Debug/net8.0/ref/mis-221-lab-3-2nd-link-erinkiley07.dll
